@@ -3,6 +3,9 @@
 /public/storage
 /storage/*.key
 /vendor
+/public/app.js
+/public/exports/csv/*
+!/public/exports/csv/.gitkeep
 .idea
 .env
 .env.backup
